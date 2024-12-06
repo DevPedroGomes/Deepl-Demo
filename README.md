@@ -1,8 +1,5 @@
 <div align="center">
   <div>&nbsp;</div>
-  <img src="resources/openvoicelogo.jpg" width="400"/> 
-
-[Repository](https://github.com/DevPedroGomes/OpenVoiceDemo)
 
 </div>
 
